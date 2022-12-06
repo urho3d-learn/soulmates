@@ -6,4 +6,6 @@
 
 Видео: <http://www.youtube.com/watch?v=2WAyRhZph9I>.
 
+![](screen.png)
+
 *Старая версия игры: <https://github.com/1vanK/Soulmates>.*
